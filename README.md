@@ -1,5 +1,5 @@
 # Lms-backend-
-# DRF Project Documentation (Library Management System)
+# Library Management System
 
 Welcome to the documentation for our Django REST Framework (DRF) project.
 
